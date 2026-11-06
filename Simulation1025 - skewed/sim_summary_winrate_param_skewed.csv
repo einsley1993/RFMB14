@@ -1,5 +1,0 @@
-"Model","RawDiff","MAE","RMSE","MeanP_orig","PctOverest","Coverage","PIWidth"
-"dmaMod",16,9,9,9,16,12,52
-"mrMod2",11,18,19,18,11,35,29
-"metaCorr",39,22,21,17,43,26,0
-"mrMod3",15,32,32,37,11,8,0
