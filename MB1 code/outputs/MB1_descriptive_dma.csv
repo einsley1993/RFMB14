@@ -1,0 +1,8 @@
+"","Variable","Level","Value"
+"1","Mean Age",NA,"144.25 (79.37)"
+"2","Test Language","a.native","44 (86.3%)"
+"3","Test Language","b.nonnative","4 (7.8%)"
+"4","Test Language","c.artificial","3 (5.9%)"
+"5","Method","a.cf","34 (66.7%)"
+"6","Method","b.hpp","10 (19.6%)"
+"7","Method","c.other","7 (13.7%)"
